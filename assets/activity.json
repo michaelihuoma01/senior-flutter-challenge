@@ -1,0 +1,77 @@
+[
+  {
+    "image_urls": [
+      "assets/images/kayak3.jpeg",
+      "assets/images/kayak2.jpeg",
+      "assets/images/kayak3.jpeg"
+    ],
+    "activity_title": "Mountain Hiking",
+    "location": "Rocky Mountain, CO",
+    "distance": "30 km",
+    "tags": [
+      "Adventure",
+      "Kayaking",
+      "Outdoor"
+    ]
+  },
+  {
+    "image_urls": [
+      "assets/images/kayak2.jpeg",
+      "assets/images/kayak1.jpeg",
+      "assets/images/kayak3.jpeg"
+    ],
+    "activity_title": "Beach Volleyball",
+    "location": "Miami Beach, FL",
+    "distance": "5 km",
+    "tags": [
+      "Sports",
+      "Beach",
+      "Outdoor"
+    ]
+  },
+  {
+    "image_urls": [
+      "assets/images/kayak1.jpeg",
+      "assets/images/kayak1.jpeg",
+      "assets/images/kayak3.jpeg"
+    ],
+    "activity_title": "Nature Photography",
+    "location": "Yellowstone Park, WY",
+    "distance": "50 km",
+    "tags": [
+      "Photography",
+      "Nature",
+      "Travel"
+    ]
+  },
+  {
+    "image_urls": [
+      "assets/images/kayak3.jpeg",
+      "assets/images/kayak2.jpeg",
+      "assets/images/kayak1.jpeg"
+    ],
+    "activity_title": "Kayaking",
+    "location": "Lake Tahoe, CA",
+    "distance": "25 km",
+    "tags": [
+      "Adventure",
+      "Water Sports",
+      "Outdoor"
+    ]
+  },
+  {
+    "image_urls": [
+      "assets/images/kayak1.jpeg",
+      "assets/images/kayak2.jpeg",
+      "assets/images/kayak3.jpeg"
+    ],
+    "activity_title": "City Bike Tour",
+    "location": "New York City, NY",
+    "distance": "10 km",
+    "tags": [
+      "Travel",
+      "City Tour",
+      "Cycling"
+    ]
+  }
+]
